@@ -11,6 +11,11 @@ Primary (Danish job market):
 - **jobfinder.dk** - another major Danish job board
 - **akademikernes.dk** - academic union job board
 
+Primary (German job market):
+- **arbeitsagentur.de** - Bundesagentur für Arbeit's Jobsuche, Germany's largest job database (via `arbeitsagentur-search` skill)
+- **arbeitnow.com** - ATS-aggregated jobs across Germany/Europe/remote, strong on visa-sponsorship roles (via `arbeitnow-search` skill)
+- **europa.eu/eures** - EU's official cross-border job portal, ~31 EU/EEA countries (via `eures-search` skill)
+
 Secondary (company career pages via Google):
 - Direct Google searches with `site:` filters for known target companies
 
